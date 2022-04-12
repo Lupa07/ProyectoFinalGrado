@@ -1,1 +1,66 @@
-<p>filtros works!</p>
+<div class="contenedor-general-filtros">
+  <div class="contenedor-bloque-filtro">
+    <div class="contenedor-input">
+      <div class="input-group mb-3">
+        <input
+          type="text"
+          class="form-control"
+          placeholder="Ingrediente"
+          aria-label="Recipient's username"
+          aria-describedby="basic-addon2"
+          #Name
+        />
+        <div class="input-group-append">
+          <button
+            class="btn btn-outline-danger vaciar"
+            type="button"
+            (click)="Name.value = ''"
+          >
+            X
+          </button>
+        </div>
+      </div>
+    </div>
+    <div class="contenedor-tipos">
+      <label for="estado">Estado:</label> <br />
+      <div class="contenedor-estado">
+        <div class="contenedor-check">
+          <input type="checkbox" id="pendiente" #check /><label for="entrantes"
+            >Entrantes</label
+          >
+          <br />
+          <input type="checkbox" id="recogiendo" #check />
+          <label for="primeros">Primeros</label> <br />
+          <input type="checkbox" id="recogida" #check /><label for="segundos"
+            >Segundos</label
+          >
+          <br />
+          <input type="checkbox" id="desconsolidando" #check /><label
+            for="postres"
+            >Postres</label
+          ><br />
+        </div>
+        <div class="input-group-append boton">
+          <button class="btn btn-outline-danger vaciar" type="button">X</button>
+        </div>
+      </div>
+    </div>
+    <div class="contenedor-select">
+      <select
+        class="form-select"
+        aria-label="Default select example"
+        name="select-busqueda"
+      >
+        <option value="nombre">Seleccione dificultad...</option>
+        <option value="nombre">Baja</option>
+        <option value="telefono">Media</option>
+        <option value="profesion">Dificil</option>
+      </select>
+    </div>
+  </div>
+  <div class="contenedor-boton">
+    <button type="submit" class="btn btn-primary btn-lg boton_Buscar">
+      Buscar
+    </button>
+  </div>
+</div>
