@@ -1,0 +1,35 @@
+.contenedor-general {
+  height: 100vh;
+  overflow-y: hidden;
+  display: grid;
+  grid-template-rows: 50px 1fr;
+  grid-template-areas: "cabecera" "cuerpo";
+  background-image: url("/assets/fondo.jpg");
+
+  .contenedor-cabecera {
+    grid-area: cabecera;
+  }
+  .contenedor-cuerpo {
+    grid-area: cuerpo;
+
+    display: grid;
+    grid-template-areas: "filtro datos";
+    grid-template-columns: 300px 1fr;
+
+    .contenedor-filtros {
+      grid-area: filtro;
+      background-color: rgba(245, 245, 220, 0.616);
+      margin: 10px;
+      padding: 5px;
+      border-radius: 20px;
+    }
+
+    .contendor-datos {
+      grid-area: datos;
+      background-color: rgba(245, 245, 220, 0.616);
+      margin: 10px;
+      padding: 5px;
+      border-radius: 20px;
+    }
+  }
+}

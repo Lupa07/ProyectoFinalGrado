@@ -1,0 +1,33 @@
+.contenedor-general{
+    height: 100%;
+display: grid;
+
+    grid-template-areas: "cont-recetas" "tabla";
+    grid-template-rows: 500px 1fr;
+    gap:5px;
+
+    .contenedor-receta{
+        height: 100%;
+        background-color: aqua;
+        grid-area: cont-recetas;
+        display: grid;
+        margin: 2px;
+        grid-template-areas: "receta botonera";
+        grid-template-columns: 1300px 1fr;
+
+        .receta{
+            border: 2px black solid;
+            height: 100%;
+            grid-area:receta;
+        }
+        .botonera{
+            height: 100%;
+            grid-area:botonera
+        }
+    }
+    .tabla{
+        background-color: red;
+        grid-area:tabla;
+        margin: 2px;
+    }
+}
