@@ -1,0 +1,209 @@
+ [
+      {
+        "nombre": "Gazpacho",
+        "ingredientes": [
+          "700g tomate",
+          "1 pimiento verde",
+          "1 cebolleta",
+          "1 diente de ajo",
+          "1 huevo cocido",
+          "70 ml aceite de oliva virgen extra",
+          "30 ml vinagre",
+          "sal"
+        ],
+        "preparacion": "Para el gazpacho utilizaremos todos los tomates , media cebolleta, medio pimiento verde, medio diente de ajo sin el germen, aceite de oliva virgen extra, vinagre y sal al gusto. El pepino lo pelamos antes de trocear y añadir a los demás ingredientes. Se aliñan los ingredientes con el aceite de oliva virgen extra, el vinagre y la sal. Si la batidora que se utilizará para triturar los ingredientes es muy potente se pueden dejar los tomates con la piel. Si no, podemos escaldarlos y quitarles la piel previamente. Se puede utilizar una batidora de vaso, un robot de cocina o la batidora de mano de toda la vida que conocemos para triturar los ingredientes. Si vemos que queda muy espeso añadimos una pizca de agua aunque lo ideal es no añadir agua. Lo reservamos en la nevera que esté bien fresquito mientras se prepara la guarnición.",
+        "presentacion": "Para presentarlo podemos servir el gazpacho en boles y que cada comensal se sirva la cantidad que desee, que contendrá las verduras que nos han quedado las cortaremos en brunoise para acompañar el gazpacho junto con un huevo cocido a modo de guarnición.",
+        "dificultad": "Baja",
+        "tiempo": "30 min.",
+        "raciones": "6",
+        "categoria": "Entrante"
+      },
+      {
+        "nombre": "Bacalao en aceite",
+        "ingredientes": [
+          "600g Bacalao desalado",
+          "4 Dientes de ajo",
+          "2 Guindillas",
+          "Aceite de oliva",
+          "Perejil"
+        ],
+        "preparacion": "Picamos unos aros de guindilla y los dientes de ajo. Sacamos láminas finas sin espinas de bacalao o pequeños tacos, depende como nos guste, y las colocamos sobre un recipiente hondo, regamos con abundante aceite de oliva virgen extra y dejamos reposar unos 15 minutos antes de consumir.",
+        "presentacion": "",
+        "dificultad": "facil",
+        "tiempo": "",
+        "raciones": "3",
+        "categoria": "Entrante"
+      },
+      {
+        "nombre": "Brochetas de langostinos picantes y mango",
+        "ingredientes": [
+          "16 langostinos cocidos",
+          "1 mango",
+          "1 limon",
+          "Perejil",
+          "Tabasco",
+          "Pimienta negra"
+        ],
+        "preparacion": "Exprime el zumo de un limón y ponlo en un recipiente. Agrega el pimentón picante y un poquito de salsa tabasco, así como la pimienta negra molida y perejil picado al gusto. Mezcla bien. Pela los langostinos y ponlos dentro del recipiente. Mezcla con el jugo de limón y las especias. Tapa con papel film y deja marinar en frío durante un mínimo de cuatro horas.",
+        "presentacion": "Cortar el mango en dados y colocarles el langostino encima de cada uno",
+        "dificultad": "facil",
+        "tiempo": "10m",
+        "raciones": "8",
+        "categoria": "entrante"
+      },
+      {
+        "nombre": "Tacos de atún marinado al tomillo y limón",
+        "ingredientes": ["200g de atun fresco", "Tomillo fresco","aceite de oliva","Ralladura de limon","100g azucar","300g sal gruesa","Tomate cherry"],
+        "preparacion": "Comenzamos cortando el atún en 16 tacos, retirando los laterales y reservándolos para elaborar, por ejemplo, un tartar de atún. Hay que procurar que tengan todos el mismo tamaño y forma, así como que sean 'de bocado', puesto que los vamos a servir como aperitivo. Lo adecuado es cortar cubos de 2 x 2 cm como máximo, aunque yo los he cortado en forma de prisma rectangular. Colocamos la sal, el azúcar, el tomillo y la ralladura de limón en un cuenco y los mezclamos bien. Con 1/3 de la mezcla, cubrimos la base de un recipiente de tamaño acorde a la cantidad de tacos que hemos cortado. Colocamos los tacos encima, dejando espacio entre unos y otros, y cubrimos con el resto de la mezcla asegurándonos de rellenar los huecos. Introducimos el recipiente en la nevera y lo dejamos reposar durante un máximo de 2 horas. Transcurrido este tiempo, retiramos la sal y limpiamos cada taco con una brocha. Los lavamos bajo un chorro fino de agua, sin pasarnos para que no queden acuosos, y los secamos con papel absorbente. A la hora de servir los tacos, los engrasamos ligeramente con aceite de oliva virgen extra. Cortamos los tomates cherry en cuatro rodajas cada uno, procurando que sean gorditas, y las ensartamos en palillos junto con el atún marinado.",
+        "presentacion": "Podremos servirlos al estilo de una brocheta",
+        "dificultad": "facil",
+        "tiempo": "20 min",
+        "raciones": "6",
+        "categoria": "entrante"
+      },
+      
+      {
+        "nombre": "Migas",
+        "ingredientes": [
+          "1 Chorizo",
+          "200 gramos de panceta",
+          "1 barra de pan duro del día anterior",
+          "5 ajos enteros",
+          "Pimentón (opcional)"
+        ],
+        "preparacion": "Cortar la rebanada de pan duro en trocitos medianos,remojar el pan con agua y un poco de sal, no empapar el pan, solo que se humedezca. En una sartén con aceite pochamos los ajos enteros para que el aceite coja sabor. Retiramos los ajos y en ese mismo aceite salteamos el chorizo y la panceta cortados en trozos. Una vez fritos el chorizo y la panceta, rehogamos las migas junto con ellos y los ajos reincorporados a la sartén durante unos 30 minutos a fuego lento. Cogerá todo el sabor a chorizo y panceta y quedarán unas migas jugosas y deliciosas.",
+        "presentacion": "",
+        "dificultad": "media",
+        "tiempo": "1H 20 min",
+        "raciones": "5",
+        "categoria": "Primero"
+      },
+      {
+        "nombre": "Tortilla de Patatas",
+        "ingredientes": [
+          "700g de patatas",
+          "1 cebolla (Opcional)",
+          "6 Huevos",
+          "Sal",
+          "Aceite de oliva"
+        ],
+        "preparacion": "Pelamos la cebolla y la cortamos en juliana. Después la ponemos en una sartén a fuego muy lento y dejamos que se haga muy despacio. Pelamos las patatas y las cortamos en rodajas finas, procurando que todas ellas sean de tamaño uniforme. Sin que el aceite se caliente, añadimos las patatas y dejamos que se vayan friendo muy despacio. Sacamos las patatas y las escurrimos bien del aceite. Batimos los huevos y los añadimos a las patatas y la cebolla caramelizada, removiendo con un tenedor para que se mezclen bien los tres ingredientes. Cuajamos la tortilla en una sartén con una cucharada de aceite durante unos tres o cuatro minutos y le damos la vuelta.",
+        "presentacion": "",
+        "dificultad": "baja",
+        "tiempo": "40 min",
+        "raciones": "5",
+        "categoria": "Primero"
+      },
+      {
+        "nombre": "Salmon al Papillote",
+        "ingredientes": [
+          "2 lomos de salmón",
+          "4 champiñones",
+          "2 cucharadas de pesto",
+          "Aceite de oliva",
+          "Eneldo",
+          "Pimienta negra",
+          "Sal"
+        ],
+        "preparacion": "Precalentar el horno a 200-220 grados. Poner el pescado en el albal. Limpiar y laminar los champiñones. Poner sobre el pescado. Añadir un poquito de aceite, eneldo y pimienta. Cerrar en sobres. Meter al horno 10-12 minutos. ",
+        "presentacion": "Servir poniendo un poco de pesto encima y con el propio papel del papillote",
+        "dificultad": "baja",
+        "tiempo": "20 min",
+        "raciones": "2",
+        "categoria": "Primero"
+      },
+      {
+        "nombre": "",
+        "ingredientes": [],
+        "preparacion": "",
+        "presentacion": "",
+        "dificultad": "",
+        "tiempo": "",
+        "raciones": "",
+        "categoria": ""
+      },
+      {
+        "nombre": "",
+        "ingredientes": [],
+        "preparacion": "",
+        "presentacion": "",
+        "dificultad": "",
+        "tiempo": "",
+        "raciones": "",
+        "categoria": ""
+      },
+      {
+          "nombre": "Arroz con pollo",
+          "ingredientes": [
+            "Medio conejo",
+            "180 gramos de arroz bomba",
+            "1 cebolleta",
+            "1 ajo",
+            "1 tomate",
+            "Medio pimiento rojo",
+            "Caldo de carne (unos 600 ml)",
+            "Azafrán",
+            "Sal y Pimienta"
+          ],
+          "preparacion": "Salpimentamos el conejo y lo doramos en la paella. Una vez dorado retiramos y reservamos.Pochamos la cebolleta, el ajo y el pimiento rojo a fuego lento. Ponemos un poco de sal, con cuidado porque el caldo ya le aportará sal.Agregamos el tomate pelado y sin pepitas picado. Rehogamos unos 10 minutos a fuego medio.Incorporamos el arroz bomba.Volvemos a incorporar el conejo, cubrimos con el caldo de carne, agregamos el azafrán o el colorante alimentario, y dejamos cocinar unos 20 minutos. Los primero minutos lo pondremos a fuego fuerte y luego bajaremos el fuego para que se termine de hacer el arroz.",
+          "presentacion": "",
+          "dificultad": "media",
+          "tiempo": "1H 20m",
+          "raciones": "6",
+          "categoria": "segundo"
+        },
+        {
+          "nombre": "Lentejas con chorizo",
+          "ingredientes": [
+            "500 g. de lentejas",
+            "4 zanahorias",
+            "2 cebollas",
+            "2 dientes de ajo",
+            "1 hoja de laurel",
+            "1 cucharada de pimentón",
+            "2 tomates grandes",
+            "1 pimiento verde",
+            "2 chorizos",
+            "Agua",
+            "Say y pimienta"
+          ],
+          "preparacion": "Picamos la cebolla, el ajo y el pimiento en trozos muy pequeños para que se vayan deshaciendo en la cocción. Pelamos las zanahorias y los tomates, si no queréis pelar el tomate tampoco pasa nada, aunque si que encontraréis algún resto de piel. En una cazuela, echamos un chorrito de aceite, las cebollas y los dientes de ajo. Sofreímos todo. Añadimos el pimiento, el tomate, las zanahorias, la hoja de laurel y el pimentón . Sofreímos también durante 2-3 minutos. Cubrimos con agua fría. Dejamos que empiecen a hervir, añadimos 2 chorizos. Cocinaremos unos 12 minutos si es una olla express, o 25 minutos si es normal.",
+          "presentacion": "",
+          "dificultad": "baja",
+          "tiempo": "30-40 min",
+          "raciones": "6",
+          "categoria": "segundo"
+        },
+        {
+          "nombre":"Chuletas de cerdo a la cerveza",
+          "ingredientes":[
+              "4 chuletas de cerdo",
+              "1 lata de cerveza",
+              "1 cebolla",
+              "6 dientes de ajo",
+              "2 cucharadas de maicena",
+              "3 patatas medianas",
+              "Sal, pimienta y perejil",
+              "Aceite de oliva virgen extra"
+          ],
+          "preparacion": "Salpimienta al gusto por los dos lados las chuletas. Corta la cebolla y aplasta los ajos con el cuchillo. Fríe las chuletas. Coloca una buena cantidad de aceite de oliva virgen extra en una sartén al fuego y añade las chuletas en cuanto el aceite esté caliente. Hazlas a fuego vivo y dales la vuelta cuando se doren de un lado para que se doren por el otro. Retíralas a un plato cuando estén doraditas. Sofríe la cebolla y los ajos en la misma sartén. Añade un poco de aceite si lo ves necesario. Prepara las patatas. Pélalas, lávalas y córtalas en dados de aproximadamente centímetro y medio o dos centímetros. Añade la cerveza a la sartén cuando la cebolla empiece a dorarse y se ponga transparente. Deja que reduzca el alcohol. Salpimienta al gusto. Disuelve la maicena en un poco de agua fría y pon un par de cucharadas a la salsa. Añade las chuletas cuando la salsa haya espesado. Lo tendrás listo en un par de minutos. Fríe las patatas. Empieza con el fuego bajo para que queden tiernas por dentro. Sube el fuego a las patatas pasados 10 minutos hasta que queden doraditas y retíralas a un plato con papel absorbente para retirar el exceso de aceite.",
+          "presentacion":"",
+          "dificultad":"media",
+          "tiempo":"40 min",
+          "raciones":"4",
+          "categoria":"segundo"
+  
+      },
+      {
+          "nombre": "",
+          "ingredientes": [],
+          "preparacion": "",
+          "presentacion": "",
+          "dificultad": "",
+          "tiempo": "",
+          "raciones": "",
+          "categoria": ""
+        }
+    ]
+  
+  
